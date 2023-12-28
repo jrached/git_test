@@ -1,0 +1,15 @@
+ Adding some text again having restored changes.
+
+After you add a file to staging step with git. if you run:
+
+git restore --staged <filename>
+
+then you will remove it from the staging step.
+
+If you then run:
+
+git restore <filename> 
+
+on the same file (or any file that isn't in staging area but has been modified since last snapshot) then you will revert changes on that file to previous snapshot.
+
+
