@@ -4,4 +4,6 @@ A subject line that has less than 50 characters explaining what you did
 
 And a body with less than 72 characters explaining why you did it. Notice the 
 subject does not end with a period there is an empty line between the subject
-and body. That is convention and helps not confus
+and body. That is convention and helps not confuse git.
+
+Another important detail is that the subject line is in the imperative mood meaning that you say it like an instruction (i.e. "clean your roon" or "do the dishes" or "fix bug"). 
